@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/exam" />
+    <file type="web" url="file://$PROJECT_DIR$/paperManager" />
+    <file type="web" url="file://$PROJECT_DIR$/sso" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenServices">
+    <service-url>https://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>http://maven.aliyun.com/nexus/content/repositories/central/</service-url>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="46dd02a3-8d66-46a0-b907-0c50e3d7f0ee" />
+      <option name="name" value="46dd02a3-8d66-46a0-b907-0c50e3d7f0ee" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="08b89dca-08d8-4457-98e2-9065e18b4771" />
+      <option name="name" value="08b89dca-08d8-4457-98e2-9065e18b4771" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
